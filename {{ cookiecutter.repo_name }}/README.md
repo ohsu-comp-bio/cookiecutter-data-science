@@ -53,5 +53,12 @@ Project Organization
 
 
 --------
+Get started: 
 
+```
+export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python3
+make create_environment
+
+```
+--------
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
